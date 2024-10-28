@@ -1,0 +1,7 @@
+Selecciona la opción que mas te guste para continuar 
+
+1 -  Ingresas tus datos personales, preguntamos a que vacantes quieres aplicar, luego de esto subes tu CV y listo estaremos listos para responder cualquier pregunta y confirmamos la recepción de los datos. 
+
+2 - Preguntanos sobre una vacante en especifico, ingresa tu CV y adjunta tus datos personales. Luego de esto estaremos listos para responder cualquier pregunta y confirmamos la recepción de los datos. (Recuerda iniciar esta pregunta con un signo interrogatorio "?")
+
+3 - Envianos tu CV, pregunta sobre alguna de nuestras vacantes en especifico, adjunta tus datos personales. Luego de esto estaremos listos para responder cualquier pregunta y confirmamos la recepción de los datos.

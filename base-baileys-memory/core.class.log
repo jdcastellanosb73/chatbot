@@ -1,0 +1,97 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112761700@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3F9539061C1DC70FA5',
+    participant: undefined
+  },
+  messageTimestamp: 1729866688,
+  pushName: 'Jaime Castellanos',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'D', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'D',
+  from: '573112761700'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1fac0664-9f4b-4d3b-bc66-5fde29f0346e',
+  keyword: 'key_36445037-b6ef-4beb-b174-fc9cb1264120',
+  answer: '📄 *Proceso de envío de CV*\n' +
+    'Por favor, envía tu CV en formato PDF.\n' +
+    'Asegúrate de que el documento contenga tu información actualizada.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '69da9246c7efd0d08d5a22cb8dbc7167'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573112761700@s.whatsapp.net',
+    fromMe: false,
+    id: '3A501712508F6320A3F1',
+    participant: undefined
+  },
+  messageTimestamp: 1729866708,
+  pushName: 'Jaime Castellanos',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/56487595_417876374498830_852287128691836645_n.enc?ccb=11-4&oh=01_Q5AaINjZwhhp35nIuOqsifxdf0MuPDryqDiE2-JYnJeQzCT7&oe=67430671&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/pdf',
+      title: 'hoja_de_vida',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 2,
+      mediaKey: [Uint8Array],
+      fileName: 'hoja_de_vida.pdf',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/56487595_417876374498830_852287128691836645_n.enc?ccb=11-4&oh=01_Q5AaINjZwhhp35nIuOqsifxdf0MuPDryqDiE2-JYnJeQzCT7&oe=67430671&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contactVcard: false,
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_document__7d43a03c-e43f-49e3-be0f-0a481a40adc1',
+  from: '573112761700'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1fac0664-9f4b-4d3b-bc66-5fde29f0346e',
+  keyword: 'key_36445037-b6ef-4beb-b174-fc9cb1264120',
+  answer: '📄 *Proceso de envío de CV*\n' +
+    'Por favor, envía tu CV en formato PDF.\n' +
+    'Asegúrate de que el documento contenga tu información actualizada.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '69da9246c7efd0d08d5a22cb8dbc7167'
+}
